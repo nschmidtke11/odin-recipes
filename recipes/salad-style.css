@@ -1,0 +1,13 @@
+body {
+    background-color: lemonchiffon;
+}
+
+h1, ul, ol, #desc {
+    border-style: groove;
+    border-color: tomato;
+}
+
+#ingredients {
+    font-size: larger;
+    font-weight: 800;
+}

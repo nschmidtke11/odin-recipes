@@ -1,0 +1,23 @@
+body {
+    background-color: lemonchiffon;
+}
+
+h1 {
+    border-style: double;
+    border-color: tomato;
+}
+
+p.ingredients {
+    font-size: larger;
+    font-weight: 800;
+}
+
+ul {
+    border-style: double;
+    border-color: tomato;
+}
+
+ol {
+    border-style: double;
+    border-color: tomato;
+}

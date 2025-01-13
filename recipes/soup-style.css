@@ -1,0 +1,28 @@
+body {
+    background-color: lemonchiffon;
+}
+
+h1 {
+    border-style: dotted;
+    border-color: tomato;
+}
+
+p#desc {
+    border-style: dotted;
+    border-color: tomato;
+}
+
+p.ingredients {
+    font-size: larger;
+    font-weight: 800;
+}
+
+ul {
+    border-style: dotted;
+    border-color: tomato;
+}
+
+ol {
+    border-style: dotted;
+    border-color: tomato;
+}
